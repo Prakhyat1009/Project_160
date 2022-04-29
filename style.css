@@ -1,0 +1,14 @@
+#footer{
+    width:100%;
+    height: fit-content;
+    font-size:20px;
+    font-weight:bold;
+    line-height:5;
+    background-color:white;
+    text-shadow:2px 2px steelblue;
+    margin-top:30px;
+    }
+
+body{
+background-color:lightgray;
+}
